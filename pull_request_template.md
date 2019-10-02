@@ -3,7 +3,7 @@
 ## Description
 
 - Include a brief summary of the change
-- Include relevant motivation and context, e.g. reason of the change is unclear
+- Include relevant motivation and context, e.g. when reason of the change is unclear
 - List all additional work that was done in this PR that's not included in the summary or the title
 
 ## Screenshots
@@ -14,7 +14,7 @@ Include screenshots that visually describe the change in the table below:
 |--------------|-------------|
 | State before | State after |
 
-Optionally can include screenshots describing only the state after the change:
+Optionally you can include screenshots describing only the state after the change:
 
 | Screenshot group name |
 |-----------------------|
@@ -22,7 +22,7 @@ Optionally can include screenshots describing only the state after the change:
 
 ## How to test
 
-Describe the tests to verify your change step by step.
+Describe how to verify your change step by step.
 
 1. Action
 2. Expected result
