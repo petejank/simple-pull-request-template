@@ -10,7 +10,7 @@ Minimal pull request template for everyday usage in your glorious projects. Made
 
 ## Example of Usage
 
-Example of template usage can be found in [pull requests](https://github.com/petejank/simple-pull-request-template/pulls).
+Example of template usage can be found in this [pull request](https://github.com/petejank/simple-pull-request-template/pull/1).
 
 ## Contribution
 
